@@ -1,5 +1,6 @@
 #title {
     background-color: #ff4c68;
+    color:white;
 }
 
 .container-fluid {
@@ -7,9 +8,20 @@
 }
 
 h1 {
-    /* color:white; */
+    
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
     font-weight: 900;
 }
+
+nav {
+    padding-bottom: 50px;
+}
+navbar-brand {
+    font-weight: 900;
+}
+/* 
+img {
+    transform: scale(0.6) rotate(20deg) translateY(-250px) ;
+} */
