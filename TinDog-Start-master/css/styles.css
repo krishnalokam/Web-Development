@@ -25,3 +25,21 @@ navbar-brand {
 img {
     transform: scale(0.6) rotate(20deg) translateY(-250px) ;
 } */
+
+#pricing {
+    background-color:lightcyan;
+}
+
+.center {
+    text-align: center;
+}
+
+.price-card {
+    width:30%;
+    padding: 16px;
+    margin: 8px;
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: yellow;
+    text-align: center;
+}
